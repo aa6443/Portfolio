@@ -3,7 +3,7 @@
 body{
     background-color: #212121;
     color:#fff;
-    te
+    font-family: Poppins;
 }
 .header{
     display: flex;
@@ -16,9 +16,10 @@ body{
 }
 a{
     text-decoration: none;
+    
 }
-.header-link{
+ .header-link{
     padding: 10px;
     font-size: 30px;
-    
+    color: red;
 }
